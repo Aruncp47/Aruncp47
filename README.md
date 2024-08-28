@@ -1,3 +1,4 @@
+![Alt text](Aruncp47/Aruncp47/giphy.webp)
 
 
 ## Hi there 👋
