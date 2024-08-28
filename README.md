@@ -1,7 +1,12 @@
 ![Alt text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODB6eXVnbGx3bWZ0cGs4cWdrdnI4MWxnczQ4MG9laTR6aHU2c211YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0BKpqAaJczduXXJ6/giphy.gif)
 
 
-## Hi there 👋
+# Hi there, I'm [ARUN] 👋
+
+I'm an App developer passionate about building impactful apps with flutter.
+
+### 🔭 What I'm currently working on:
+- Building a [Walq.img](https://github.com/username/project)
 
 <!--
 **Aruncp47/Aruncp47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
