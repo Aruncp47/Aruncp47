@@ -1,4 +1,4 @@
-![Alt text](Aruncp47/Aruncp47/giphy.webp)
+![Alt text](Aruncp47/Aruncp47/giphy.gif)
 
 
 ## Hi there 👋
