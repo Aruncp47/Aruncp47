@@ -6,7 +6,7 @@
 I'm an App developer passionate about building impactful apps with Flutter.
 
 ### 🔭 What I'm currently working on:
-- Building and Maintaining [Walq.img]([https://github.com/username/project](https://github.com/Aruncp47/sampleapptwo))
+- Building and Maintaining [Walq.img](https://github.com/Aruncp47/sampleapptwo)
   
 
 <!--
